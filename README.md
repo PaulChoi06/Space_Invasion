@@ -22,6 +22,7 @@ MECHANICS:
   
   
 OBJECTIVE:
+
   Destroy the meteors falling in each level in order to survive.
   
   Live long enough so that you can move on to the next level.
