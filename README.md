@@ -9,6 +9,8 @@ After completing each level, the next level will get harder, but you will get an
 
 This is a full GUI game, with buttons, mouse positioning, mouse click, and more.
 
+
+
 MECHANICS:  
 
   Spaceship image is the character you move.
@@ -20,6 +22,7 @@ MECHANICS:
   You will need more points to move on after each level.
   
   List of meteors that adjusts the amount meteor images are on teh screen.
+  
   
   
 OBJECTIVE:
