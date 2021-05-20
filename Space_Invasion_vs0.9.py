@@ -1,5 +1,3 @@
- #MOVING TO MOBILE
-
 import pygame, sys, random
 
 pygame.init()
