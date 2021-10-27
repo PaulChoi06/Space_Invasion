@@ -21,7 +21,7 @@ MECHANICS:
   In every level you will have points. If you get a certain amount of points in a level, you move on.
   You will need more points to move on after each level.
   
-  List of meteors that adjusts the amount meteor images are on teh screen.
+  The amount of meteors on the screen is adjusted by a simple array that pops and appends values that represent the meteors.
   
   
   
